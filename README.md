@@ -103,4 +103,5 @@ ConfidenStrategy was developed as a team entry for a GenAI hackathon. Although w
 
 ## Contributors 👥
 
-- [ Team Member 1 ( Main Contributor of the Entire Project ) ]([https://github.com/teammember1](https://github.com/AtharshKrishnamoorthy))
+- [Team Member 1 (Main Contributor of the Entire Project)](https://github.com/AtharshKrishnamoorthy)
+
