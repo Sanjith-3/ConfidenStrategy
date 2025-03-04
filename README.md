@@ -88,11 +88,9 @@ Using ConfidenStrategy is simple, even if you're not familiar with technical det
 7. **Listen to Analysis**: Click the speaker button to hear any section read aloud
 
 
-## About This Project 🏆
-
 ConfidenStrategy was developed as a team entry for a GenAI hackathon. Although we didn't advance in the competition, the project demonstrates the potential of AI in business strategy and planning. Our team built this tool to showcase how generative AI can help businesses make data-driven strategic decisions.
 
-## Future Improvements 🔮
+#### Future Improvements 🔮
 
 - Additional data sources for more comprehensive analysis
 - Support for more industries and specialized metrics
